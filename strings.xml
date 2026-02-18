@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UDF Görüntüleyici</string>
+    <string name="action_open">Dosya Aç</string>
+    <string name="action_copy_all">Tüm Metni Kopyala</string>
+    <string name="action_zoom_in">Yakınlaştır</string>
+    <string name="action_zoom_out">Uzaklaştır</string>
+    <string name="action_zoom_reset">Zoom Sıfırla</string>
+    <string name="empty_state_title">UDF Belge Görüntüleyici</string>
+    <string name="empty_state_message">Adalet Bakanlığı UDF formatındaki belgelerinizi açın</string>
+    <string name="open_file">UDF Dosyası Aç</string>
+    <string name="copied">Metin kopyalandı</string>
+    <string name="error_open">Dosya açılamadı</string>
+</resources>

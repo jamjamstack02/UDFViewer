@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_open"
+        android:title="Dosya Aç"
+        android:icon="@drawable/ic_folder_open"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_zoom_in"
+        android:title="Yakınlaştır"
+        android:icon="@drawable/ic_zoom_in"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_zoom_out"
+        android:title="Uzaklaştır"
+        android:icon="@drawable/ic_zoom_out"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_zoom_reset"
+        android:title="Zoom Sıfırla (%100)"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_copy_all"
+        android:title="Tüm Metni Kopyala"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_export_pdf"
+        android:title="PDF Olarak Dışa Aktar"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_signature"
+        android:title="Dijital İmza Bilgisi"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_recent"
+        android:title="Son Açılan Dosyalar"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_night_mode"
+        android:title="Gece Modu"
+        app:showAsAction="never" />
+
+</menu>
